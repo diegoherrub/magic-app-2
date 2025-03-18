@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_select_colors">Selecciona los colores</string>
+    <string-array name="color_options">
+        <item>White (W)</item>
+        <item>Blue (U)</item>
+        <item>Black (B)</item>
+        <item>Red (R)</item>
+        <item>Green (G)</item>
+    </string-array>
+</resources>

@@ -1,3 +1,64 @@
 <resources>
+    <!-- Common -->
     <string name="app_name">MagicApp2</string>
+    <string name="image_card_content_description">Card Image</string>
+    <string name="image_section_content_description">Section Image</string>
+
+    <!-- App Bar -->
+    <string name="magic_title">Magic</string>
+    <string name="random_card_title">Random Card</string>
+    <string name="search_title">Search</string>
+    <string name="collections_title">Collections</string>
+    <string name="decks_title">Decks</string>
+
+    <!-- Random Card Fragment -->
+    <string name="save_card">Save</string>
+    <string name="cd_save_card">Save the card\'s image into app storage</string>
+    <string name="refresh">Refresh</string>
+    <string name="cd_refresh">Refresh the content with a new random card</string>
+    <string name="fab_flip">Flip card</string>
+
+    <!-- navigation bar -->
+    <string name="magic">Magic</string>
+    <string name="random">Random</string>
+    <string name="search">Search</string>
+    <string name="albums">Albums</string>
+    <string name="decks">Decks</string>
+
+    <!-- Titles -->
+    <string name="legalities_title">Legalities</string>
+    <string name="name_title">Name</string>
+    <string name="type_line_title">Type</string>
+    <string name="rarity_title">Rarity</string>
+    <string name="oracle_text_title">Oracle text</string>
+    <string name="set_name_title">Set</string>
+
+    <!-- Legalities -->
+    <string name="standard">Standard</string>
+    <string name="future">Future</string>
+    <string name="historic">Historic</string>
+    <string name="timeless">Timeless</string>
+    <string name="gladiator">Gladiator</string>
+    <string name="pioneer">Pioneer</string>
+    <string name="explorer">Explorer</string>
+    <string name="modern">Modern</string>
+    <string name="legacy">Legacy</string>
+    <string name="pauper">Pauper</string>
+    <string name="vintage">Vintage</string>
+    <string name="penny">Penny</string>
+    <string name="commander">Commander</string>
+    <string name="oathbreaker">Oathbreaker</string>
+    <string name="standardbrawl">Standard Brawl</string>
+    <string name="brawl">Brawl</string>
+    <string name="alchemy">Alchemy</string>
+    <string name="paupercommander">Pauper Commander</string>
+    <string name="duel">Duel</string>
+    <string name="oldschool">Old School</string>
+    <string name="premodern">Premodern</string>
+    <string name="predh">PreDH</string>
+
+    <!-- Glossary -->
+    <string name="glossary_section_title">Glossary</string>
+    <string name="glossary_section_description">Learn the meaning of the most common terms in the Magic: The Gathering universe.</string>
+    <string name="image_glossary_content_description">Glossary Image</string>
 </resources>

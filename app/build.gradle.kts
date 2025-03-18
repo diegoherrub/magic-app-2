@@ -73,6 +73,7 @@ dependencies {
     implementation(libs.room.coroutines)
     implementation(libs.skeleton)
     implementation(libs.androidx.navigation.compose)
+    implementation(libs.material)
 }
 
 ksp {

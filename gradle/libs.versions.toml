@@ -7,9 +7,9 @@ junitVersion = "1.2.1"
 espressoCore = "3.6.1"
 lifecycleRuntimeKtx = "2.8.7"
 activityCompose = "1.10.1"
-composeBom = "2025.02.00"
+composeBom = "2025.03.00"
 
-navigationFragmentKtx = "2.8.8"
+navigationFragmentKtx = "2.8.9"
 kspVersion = "2.0.21-1.0.26"
 coilVersion = "2.7.0"
 gson = "2.12.1"
@@ -19,6 +19,7 @@ koinBom = "4.0.0"
 koinAnnotations = "1.4.0"
 roomVersion = "2.6.1"
 skeleton = "5.0.0"
+material = "1.12.0"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -52,6 +53,7 @@ room-runtime = { group = "androidx.room", name = "room-runtime", version.ref = "
 room-ksp = { group = "androidx.room", name = "room-compiler", version.ref = "roomVersion" }
 room-coroutines = { group = "androidx.room", name = "room-ktx", version.ref = "roomVersion" }
 skeleton = { module = "com.faltenreich:skeletonlayout", version.ref = "skeleton" }
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
